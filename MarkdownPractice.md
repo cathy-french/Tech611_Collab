@@ -1,9 +1,9 @@
 ## hello? we are back department? i'd like to file a claim.
-- [ ] take a walk
+
 - [x] steal the moon
 
 ```mermaid
-pie title people who enjoy radiohead
+pie title is tenet peak
     "yes" : 40
     "yes in a different color" : 14
 ```
